@@ -113,8 +113,6 @@ hopital-rag/
 
 ├── src/
 
-│   ├── patients_data.py    # Données fictives patients et protocoles
-
 │   ├── 02_ingest.py        # Ingestion dans Qdrant
 
 │   ├── 03_api.py           # API FastAPI
